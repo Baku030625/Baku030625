@@ -5,4 +5,4 @@
 * cargador
 * audífonos 
 * Dedales
-              >no es que me acorralaron, me rusheo una escuadra🫩
+ >"no es que me acorralaron, me rusheo una escuadra"🫩
