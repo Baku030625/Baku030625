@@ -1,7 +1,7 @@
-#perfil: davidprosupermega
-##rango: maestro
+ # perfil: davidprosupermega
+## rango: maestro
  Soy jugador avanzado     de **_Free Fire_** 
-###*Equipo indispensable:*
+### *Equipo indispensable:*
 * cargador
 * audífonos 
 * Dedales
